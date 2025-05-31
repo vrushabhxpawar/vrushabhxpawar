@@ -46,8 +46,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
-###
-
 ### ⚙️ Tools & Platforms
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -69,18 +67,18 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 
 ---
 
-### 📂 Projects
+## 📂 Projects
 
 #### 🏡 [StayNest – Airbnb Clone](https://github.com/vrushabhxpawar/StayNest)
 A full-featured Airbnb clone built with the **MERN stack**, allowing users to book and host stays.
 
-**Key Features:**
-- 🔐 User authentication (JWT)
+**Key Features :**
+- 🔐 User authentication
 - 🏘️ Add/edit/delete listings
 - 🖼️ Image upload & preview
 - 📱 Fully responsive with Bootstrap
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS
+**Tech Stack :** React, Node.js, Express.js, MongoDB, Bootstrap
 
 > 🌐 [Live Demo](https://staynest-ngkk.onrender.com/listing)
 
@@ -94,7 +92,6 @@ A full-featured Airbnb clone built with the **MERN stack**, allowing users to bo
 - 💼 LinkedIn : https://www.linkedin.com/in/vrushabhxpawar
 - 📷 Instagram : https://instagram.com/vrushabhxpawar
 - 📧 Email: vrushabhpawar05@gmail.com
-- 🌐 Portfolio : https://your-portfolio-link.com
 
 ---
 
