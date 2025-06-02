@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vrushabh Pawar!
+# 👋 Hey, I'm Vrushabh Pawar!
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer who loves building scalable web applications and exploring different programming paradigms. I'm especially enthusiastic about JavaScript technologies and system-level programming.
 
