@@ -83,6 +83,24 @@ A full-featured Airbnb clone built with the **MERN stack**, allowing users to bo
 > 🌐 [Live Demo](https://staynest-ngkk.onrender.com/listing)
 
 
+#### 🏡 [Streamify– Real-Time Chat & Video Call App](https://github.com/vrushabhxpawar/StayNest)
+A full-stack MERN application that enables real-time chat messaging and video calling using Stream Chat and Stream
+Video APIs. The app supports:
+
+**Key Features :**
+- 🔐 User authentication with JWT.
+- 💬 One-to-one and group chat functionality.
+- 📹 Real-time video calling with screen sharing.
+- 👥 Friend request and notification system.
+- ⚡ Fast, responsive UI built with React.
+- 🌐 RESTful APIs powered by Node.js & Express.
+- 🛢 MongoDB for secure data storage.
+
+**Tech Stack :** React, Node.js, Express.js, MongoDB, Tailwind, Stream-chat.
+
+> 🌐 [Live Demo](https://streamify-oj1f.onrender.com)
+
+
 > 👉 Check out my repositories to see more of what I’ve been working on!
 
 ---
