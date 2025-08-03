@@ -79,7 +79,7 @@ A full-featured Airbnb clone built with the **MERN stack**, allowing users to bo
 - 🖼️ Image upload & preview
 - 📱 Fully responsive with Bootstrap
 
-**Tech Stack :** React, Node.js, Express.js, MongoDB, Bootstrap
+**Tech Stack :** EJS, Node.js, Express.js, MongoDB, Bootstrap
 
 > 🌐 [Live Demo](https://staynest-ngkk.onrender.com/listing)
 
@@ -90,7 +90,7 @@ Video APIs. The app supports:
 
 **Key Features :**
 - 🔐 User authentication with JWT.
-- 💬 One-to-one and group chat functionality.
+- 💬 One-to-one chat and call functionality.
 - 📹 Real-time video calling with screen sharing.
 - 👥 Friend request and notification system.
 - ⚡ Fast, responsive UI built with React.
