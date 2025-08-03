@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 
 ## 📂 Projects
 
-#### 🏡 [StayNest – Airbnb Clone](https://github.com/vrushabhxpawar/StayNest)
+#### 🏡 [StayNest – Inspired from Airbnb](https://github.com/vrushabhxpawar/StayNest)
 A full-featured Airbnb clone built with the **MERN stack**, allowing users to book and host stays.
 
 **Key Features :**
