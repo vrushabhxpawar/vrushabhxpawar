@@ -101,6 +101,21 @@ Video APIs. The app supports:
 
 > 🌐 [Live Demo](https://streamify-oj1f.onrender.com)
 
+#### 💼 LinkedIn Clone – Professional Networking Platform(https://github.com/vrushabhxpawar/LinkedIn-Clone)
+A full-stack MERN application that replicates LinkedIn’s core functionalities, enabling users to build their professional network, share posts, and engage with others in real-time :
+
+**Key Features :**
+- 🔐 Secure authentication using JWT, cookies, and password encryption.
+- 👤 Profile management with avatar and cover image uploads via Cloudinary.
+- 📝 Create, like, and comment on posts with real-time updates using React Query.
+- 🤝 Network building through user connections.
+- ⚡ Responsive, device-independent UI with smooth navigation
+- 🌐 RESTful APIs powered by Node.js & Express.
+- 🛢 MongoDB for secure data storage.
+
+Tech Stack : React, Node.js, Express.js, MongoDB, TailwindCSS, React Query, Cloudinary.
+
+> 🌐 [Live Demo](https://linkedin-clone-7vdl.onrender.com/)
 
 > 👉 Check out my repositories to see more of what I’ve been working on!
 
