@@ -101,7 +101,7 @@ Video APIs. The app supports:
 
 > 🌐 [Live Demo](https://streamify-oj1f.onrender.com)
 
-#### 💼 LinkedIn Clone – Professional Networking Platform(https://github.com/vrushabhxpawar/LinkedIn-Clone)
+#### 💼 [LinkedIn Clone – Professional Networking Platform](https://github.com/vrushabhxpawar/LinkedIn-Clone)
 A full-stack MERN application that replicates LinkedIn’s core functionalities, enabling users to build their professional network, share posts, and engage with others in real-time :
 
 **Key Features :**
