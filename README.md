@@ -126,7 +126,7 @@ Tech Stack : React, Node.js, Express.js, MongoDB, TailwindCSS, React Query, Clou
 - 💼 LinkedIn : https://www.linkedin.com/in/vrushabhxpawar
 - 📷 Instagram : https://instagram.com/vrushabhxpawar
 - 📧 Email: vrushabhpawar05@gmail.com
-- 🌐 Portfolio : https://vrushabh-teal.vercel.app/
+- 🌐 Portfolio : https://vrushabh-gamma.vercel.app
 
 ---
 
